@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  background-color: theme("colors.bb.cream");
+  color: theme("colors.bb.charcoal");
+  -webkit-tap-highlight-color: transparent;
+  overscroll-behavior-y: contain;
+}
+
+/* Safe-area padding for iOS home indicator */
+.safe-bottom { padding-bottom: env(safe-area-inset-bottom); }
+.safe-top { padding-top: env(safe-area-inset-top); }
+
+/* Subtle paper-grain texture for the app surface — warmth without distraction. */
+.bb-surface {
+  background:
+    radial-gradient(1200px 600px at 50% -200px, rgba(200, 16, 46, 0.06), transparent 60%),
+    theme("colors.bb.cream");
+}
+
+/* Decorative stripe used in headers, mimicking the heraldic shield's silver tower banding. */
+.bb-stripe {
+  background-image: linear-gradient(
+    180deg,
+    theme("colors.bb.red.700") 0%,
+    theme("colors.bb.red.600") 60%,
+    theme("colors.bb.red.700") 100%
+  );
+}
+
+@keyframes pulse-soft {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.55; }
+}
+.pulse-soft { animation: pulse-soft 2s ease-in-out infinite; }

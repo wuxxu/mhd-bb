@@ -1,0 +1,512 @@
+[
+  {
+    "line": "1",
+    "name": "Železničná stanica - Rooseveltova nemocnica",
+    "fullName": "Železničná stanica - Rooseveltova nemocnica",
+    "operator": "DPMBB",
+    "validFrom": "2025-12-14",
+    "directions": [
+      {
+        "headsign": "Rooseveltova nemocnica",
+        "stopCount": 14
+      },
+      {
+        "headsign": "Železničná stanica",
+        "stopCount": 12
+      }
+    ]
+  },
+  {
+    "line": "2",
+    "name": "Vozovňa - Železničná stanica",
+    "fullName": "Vozovňa - Železničná stanica",
+    "operator": "DPMBB",
+    "validFrom": "2025-12-14",
+    "directions": [
+      {
+        "headsign": "TESCO hypermarket",
+        "stopCount": 15
+      },
+      {
+        "headsign": "Vozovňa",
+        "stopCount": 14
+      }
+    ]
+  },
+  {
+    "line": "3",
+    "name": "Vozovňa - Rooseveltova nemocnica",
+    "fullName": "Vozovňa - Rooseveltova nemocnica",
+    "operator": "DPMBB",
+    "validFrom": "2025-12-14",
+    "directions": [
+      {
+        "headsign": "Rooseveltova nemocnica",
+        "stopCount": 21
+      },
+      {
+        "headsign": "TESCO hypermarket",
+        "stopCount": 15
+      }
+    ]
+  },
+  {
+    "line": "4",
+    "name": "TESCO Hypermarket - Železničná stanica",
+    "fullName": "TESCO hypermarket - Železničná stanica",
+    "operator": "DPMBB",
+    "validFrom": "2025-12-14",
+    "directions": [
+      {
+        "headsign": "Železničná stanica",
+        "stopCount": 12
+      },
+      {
+        "headsign": "TESCO hypermarket",
+        "stopCount": 12
+      }
+    ]
+  },
+  {
+    "line": "5",
+    "name": "TESCO Hypermarket - Rooseveltova nemocnica",
+    "fullName": "TESCO hypermarket - Rooseveltova nem.",
+    "operator": "DPMBB",
+    "validFrom": "2025-12-14",
+    "directions": [
+      {
+        "headsign": "Rooseveltova nemocnica",
+        "stopCount": 12
+      },
+      {
+        "headsign": "TESCO hypermarket",
+        "stopCount": 13
+      }
+    ]
+  },
+  {
+    "line": "6",
+    "name": "Železničná stanica - Tulská",
+    "fullName": "Železničná stanica - Tulská",
+    "operator": "DPMBB",
+    "validFrom": "2025-12-14",
+    "directions": [
+      {
+        "headsign": "Tulská",
+        "stopCount": 12
+      },
+      {
+        "headsign": "Vozovňa",
+        "stopCount": 24
+      }
+    ]
+  },
+  {
+    "line": "7",
+    "name": "Železničná stanica - Internátna",
+    "fullName": "Železničná stanica - Internátna",
+    "operator": "DPMBB",
+    "validFrom": "2025-12-14",
+    "directions": [
+      {
+        "headsign": "Internátna",
+        "stopCount": 15
+      },
+      {
+        "headsign": "Železničná stanica",
+        "stopCount": 21
+      }
+    ]
+  },
+  {
+    "line": "8",
+    "name": "Železničná stanica - Tulská",
+    "fullName": "Železničná stanica - Tulská",
+    "operator": "DPMBB",
+    "validFrom": "2025-12-14",
+    "directions": [
+      {
+        "headsign": "Tulská",
+        "stopCount": 13
+      },
+      {
+        "headsign": "Železničná stanica",
+        "stopCount": 18
+      }
+    ]
+  },
+  {
+    "line": "20",
+    "name": "Parkovisko Mičinská - Rudohorská dolná",
+    "fullName": "Parkovisko Mičinská-Autobusová stanica-Námestie slobody-Karpatská-Rudohorská dolná",
+    "operator": "SADZV",
+    "validFrom": "2025-12-14",
+    "directions": [
+      {
+        "headsign": "Karpatská",
+        "stopCount": 9
+      },
+      {
+        "headsign": "Rudlovská cesta",
+        "stopCount": 14
+      }
+    ]
+  },
+  {
+    "line": "21",
+    "name": "Pieninská - Rakytovce/Vozovňa",
+    "fullName": "",
+    "operator": "SADZV",
+    "validFrom": "2025-12-14",
+    "directions": [
+      {
+        "headsign": "Rakytovce,ihrisko",
+        "stopCount": 27
+      },
+      {
+        "headsign": "TESCO Hypermarket",
+        "stopCount": 28
+      }
+    ]
+  },
+  {
+    "line": "22",
+    "name": "Pieninská - Zvolenská cesta, Juh",
+    "fullName": "",
+    "operator": "SADZV",
+    "validFrom": "2025-12-14",
+    "directions": [
+      {
+        "headsign": "Zvolenská cesta juh",
+        "stopCount": 23
+      },
+      {
+        "headsign": "Pieninská",
+        "stopCount": 23
+      }
+    ]
+  },
+  {
+    "line": "23",
+    "name": "Pieninská - Majerská cesta",
+    "fullName": "",
+    "operator": "SADZV",
+    "validFrom": "2025-12-14",
+    "directions": [
+      {
+        "headsign": "Majerská cesta",
+        "stopCount": 15
+      },
+      {
+        "headsign": "Pieninská",
+        "stopCount": 18
+      }
+    ]
+  },
+  {
+    "line": "24",
+    "name": "Mládežnícka - Starohorská otočka",
+    "fullName": "",
+    "operator": "SADZV",
+    "validFrom": "2025-12-14",
+    "directions": [
+      {
+        "headsign": "Lazovná Severná",
+        "stopCount": 17
+      },
+      {
+        "headsign": "nepremáva",
+        "stopCount": 19
+      }
+    ]
+  },
+  {
+    "line": "25",
+    "name": "Rooseveltova nemocnica - Starohorská otočka",
+    "fullName": "",
+    "operator": "SADZV",
+    "validFrom": "2026-04-20",
+    "directions": [
+      {
+        "headsign": "Starohorská otočka",
+        "stopCount": 14
+      },
+      {
+        "headsign": "nepremáva",
+        "stopCount": 17
+      }
+    ]
+  },
+  {
+    "line": "26",
+    "name": "Internátna - Rudohorská dolná",
+    "fullName": "Internátna-Námestie slobody-Partizánska cesta-Starohorská rázcestie-Rudohorská dolná",
+    "operator": "SADZV",
+    "validFrom": "2025-12-14",
+    "directions": [
+      {
+        "headsign": "Starohorská pod Bánošom",
+        "stopCount": 18
+      },
+      {
+        "headsign": "Na Stráni",
+        "stopCount": 23
+      }
+    ]
+  },
+  {
+    "line": "27",
+    "name": "Gaštanová - Starohorská otočka",
+    "fullName": "",
+    "operator": "SADZV",
+    "validFrom": "2026-04-20",
+    "directions": [
+      {
+        "headsign": "Starohorská otočka",
+        "stopCount": 17
+      },
+      {
+        "headsign": "nepremáva do",
+        "stopCount": 18
+      }
+    ]
+  },
+  {
+    "line": "28",
+    "name": "Autobusová stanica - Rudohorská dolná",
+    "fullName": "Autobusová stanica-Námestie slobody-Partizánska cesta-Starohorská rázcestie",
+    "operator": "SADZV",
+    "validFrom": "2025-12-14",
+    "directions": [
+      {
+        "headsign": "Starohorská pod Bánošom",
+        "stopCount": 11
+      },
+      {
+        "headsign": "Autobusová stanica",
+        "stopCount": 15
+      }
+    ]
+  },
+  {
+    "line": "29",
+    "name": "Parkovisko Mičinská - Rudohorská dolná",
+    "fullName": "Parkovisko Mičinská-Železničná stanica-Námestie slobody-Stará Sásová-Karpatská -Rudohorská dolná-Stará Sásová-Námestie slobody-Železničná stanica-Parkovisko Mičinská",
+    "operator": "SADZV",
+    "validFrom": "2025-12-14",
+    "directions": [
+      {
+        "headsign": "Karpatská",
+        "stopCount": 13
+      },
+      {
+        "headsign": "parkovisko Mičinská",
+        "stopCount": 16
+      }
+    ]
+  },
+  {
+    "line": "32",
+    "name": "Gaštanová - Iliaš pri moste",
+    "fullName": "",
+    "operator": "SADZV",
+    "validFrom": "2025-12-14",
+    "directions": [
+      {
+        "headsign": "Iliaš,pri moste",
+        "stopCount": 18
+      },
+      {
+        "headsign": "Podlavice,Gaštanová",
+        "stopCount": 18
+      }
+    ]
+  },
+  {
+    "line": "33",
+    "name": "THK otočka - Senica otočka",
+    "fullName": "THK otočka-H.Vajanského-Strieborné námestie-Jesenský vr´šok-Námestie slobody",
+    "operator": "SADZV",
+    "validFrom": "2025-12-14",
+    "directions": [
+      {
+        "headsign": "Senica,Jednota",
+        "stopCount": 24
+      },
+      {
+        "headsign": "Priemyselný park, most",
+        "stopCount": 26
+      }
+    ]
+  },
+  {
+    "line": "34",
+    "name": "Železničná stanica - Gaštanová",
+    "fullName": "",
+    "operator": "SADZV",
+    "validFrom": "2025-12-14",
+    "directions": [
+      {
+        "headsign": "Podlavice,Gaštanová",
+        "stopCount": 12
+      },
+      {
+        "headsign": "nepremáva do",
+        "stopCount": 14
+      }
+    ]
+  },
+  {
+    "line": "35",
+    "name": "Železničná stanica - Skubín otočka",
+    "fullName": "Železničná stanica-Námestie slobody-Jesenský vršok-Strieborné námestie-Skubín otočka a spät’",
+    "operator": "SADZV",
+    "validFrom": "2026-04-20",
+    "directions": [
+      {
+        "headsign": "Skubín,otočka",
+        "stopCount": 17
+      },
+      {
+        "headsign": "Železničná stanica",
+        "stopCount": 16
+      }
+    ]
+  },
+  {
+    "line": "36",
+    "name": "Železničná stanica - Mlynská otočka",
+    "fullName": "Železničná stanica-Námestie slobody-Jesenský vršok-Strieborné námestie-Mlynská otočka a spät’",
+    "operator": "SADZV",
+    "validFrom": "2026-04-20",
+    "directions": [
+      {
+        "headsign": "Mlynská otoč.",
+        "stopCount": 16
+      },
+      {
+        "headsign": "Železničná stanica",
+        "stopCount": 15
+      }
+    ]
+  },
+  {
+    "line": "41",
+    "name": "Senica otočka - Iliaš II.",
+    "fullName": "",
+    "operator": "SADZV",
+    "validFrom": "2025-12-14",
+    "directions": [
+      {
+        "headsign": "Iliaš,II.",
+        "stopCount": 26
+      },
+      {
+        "headsign": "nepremáva do",
+        "stopCount": 29
+      }
+    ]
+  },
+  {
+    "line": "42",
+    "name": "Majer otočka - Šalková otočka",
+    "fullName": "",
+    "operator": "SADZV",
+    "validFrom": "2026-04-20",
+    "directions": [
+      {
+        "headsign": "Šalková,otočka",
+        "stopCount": 16
+      },
+      {
+        "headsign": "Partizánska cesta čerpacia stanica",
+        "stopCount": 15
+      }
+    ]
+  },
+  {
+    "line": "43",
+    "name": "Srnková - Uľanka otočka",
+    "fullName": "",
+    "operator": "SADZV",
+    "validFrom": "2025-12-14",
+    "directions": [
+      {
+        "headsign": "Uľanka,otočka",
+        "stopCount": 21
+      },
+      {
+        "headsign": "Srnková",
+        "stopCount": 20
+      }
+    ]
+  },
+  {
+    "line": "80",
+    "name": "Viestova - Rooseveltova nemocnica",
+    "fullName": "Viestova-Železničná stanica-29.augusta-Ďumbierska ZŠ-Stará Sásová-Strieborné námestie",
+    "operator": "SADZV",
+    "validFrom": "2026-04-20",
+    "directions": [
+      {
+        "headsign": "Severná",
+        "stopCount": 24
+      },
+      {
+        "headsign": "nepremáva do",
+        "stopCount": 20
+      }
+    ]
+  },
+  {
+    "line": "90",
+    "name": "Pieninská - Krematórium",
+    "fullName": "",
+    "operator": "SADZV",
+    "validFrom": "2025-12-14",
+    "directions": [
+      {
+        "headsign": "Kremnička",
+        "stopCount": 28
+      },
+      {
+        "headsign": "nepremáva do",
+        "stopCount": 26
+      }
+    ]
+  },
+  {
+    "line": "97",
+    "name": "Železničná stanica - Pršianska terasa Mosadzná",
+    "fullName": "Železničná stanica-Námestie slobody-Autobusová stanica-Úsvit-Okružná-Kyjevské námestie",
+    "operator": "SADZV",
+    "validFrom": "2025-12-14",
+    "directions": [
+      {
+        "headsign": "Pršianska terasa",
+        "stopCount": 17
+      },
+      {
+        "headsign": "Železničná stanica",
+        "stopCount": 15
+      }
+    ]
+  },
+  {
+    "line": "100",
+    "name": "Bellušova - okruh cez Železničnú stanicu",
+    "fullName": "Bellušova-Viestova-Železničná stanica-Cesta k nemocnici-Námestie Š.Moysesa pošta",
+    "operator": "SADZV",
+    "validFrom": "2025-12-14",
+    "directions": [
+      {
+        "headsign": "Rudlová kapitána Jaroša",
+        "stopCount": 23
+      },
+      {
+        "headsign": "Bellušova",
+        "stopCount": 6
+      }
+    ]
+  }
+]
