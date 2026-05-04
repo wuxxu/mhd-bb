@@ -508,5 +508,19 @@
         "stopCount": 6
       }
     ]
+  },
+  {
+    "line": "604",
+    "name": "Banská Bystrica - Špania Dolina / Dolný Harmanec / Staré Hor",
+    "fullName": "Banská Bystrica - Špania Dolina / Dolný Harmanec / Staré Hory / Turecká",
+    "operator": "SADZV",
+    "validFrom": "2026-05-07",
+    "directions": [
+      {
+        "headsign": "Banská Bystrica, AS",
+        "stopCount": 2
+      }
+    ],
+    "manualEntry": true
   }
 ]
