@@ -517,8 +517,12 @@
     "validFrom": "2026-05-07",
     "directions": [
       {
+        "headsign": "Jakub, kostol",
+        "stopCount": 10
+      },
+      {
         "headsign": "Banská Bystrica, AS",
-        "stopCount": 2
+        "stopCount": 10
       }
     ],
     "manualEntry": true
